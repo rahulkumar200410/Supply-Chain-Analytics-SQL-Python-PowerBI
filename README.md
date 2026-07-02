@@ -18,6 +18,16 @@ This project demonstrates an end-to-end data analytics workflow by transforming 
 
 The project focuses on answering real business questions rather than simply presenting charts, making it suitable for business intelligence and data analytics use cases.
 
+
+## 🚀 Project Highlights
+
+- End-to-End Data Analytics Project
+- Python Data Cleaning & Preprocessing
+- SQL Business Analysis
+- MySQL Database Management
+- Interactive Power BI Dashboard
+- Business KPI Reporting
+
 ---
 
 # 🎯 Business Problem
@@ -136,6 +146,11 @@ The dataset contains supply chain transactions collected over multiple years and
 - Order Dates
 
 The cleaned dataset is used throughout the SQL analysis and Power BI dashboard development.
+
+
+# 📂 Dataset Source
+
+This project uses a publicly available Supply Chain dataset for educational and portfolio purposes. The dataset was cleaned and transformed using Python before analysis.
 
 ---
 # 🧹 Data Cleaning & Preprocessing
@@ -287,33 +302,25 @@ This page identifies high-performing products, products with poor profitability,
 
 ## Executive Overview
 
-```markdown
 ![Executive Overview](Images/executive_overview.png)
-```
 
 ---
 
 ## Delivery Performance
 
-```markdown
 ![Delivery Performance](Images/delivery_performance.png)
-```
 
 ---
 
 ## Profit & Cost Analysis
 
-```markdown
 ![Profit & Cost Analysis](Images/profit_cost_analysis.png)
-```
 
 ---
 
 ## Product Insights
 
-```markdown
 ![Product Insights](Images/product_insights.png)
-```
 
 ---
 
@@ -395,7 +402,7 @@ This project demonstrates practical experience in:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/rahulkumar200410/Supply-Chain-Analytics-SQL-Python-PowerBI.git
+git clone [GitHub](https://github.com/rahulkumar200410)/Supply-Chain-Analytics-SQL-Python-PowerBI.git
 ```
 
 ---
@@ -431,17 +438,6 @@ Use filters and slicers to analyze:
 
 ---
 
-# 📈 Future Improvements
-
-Possible future enhancements include:
-
-- Real-time dashboard using live database connections
-- Automated ETL pipeline
-- Demand forecasting using Machine Learning
-- Interactive drill-through reports
-- Advanced customer segmentation
-- Integration with cloud databases
-
 ---
 
 # 📚 Project Highlights
@@ -472,11 +468,11 @@ Possible future enhancements include:
 
 📌 **GitHub**
 
-https://github.com/rahulkumar200410
+[GitHub](https://github.com/rahulkumar200410)
 
 📌 **LinkedIn**
 
-https://www.linkedin.com/in/rahul-kumar-sao-8a5175322
+[LinkedIn](https://www.linkedin.com/in/rahul-kumar-sao-8a5175322)
 
 ---
 
